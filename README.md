@@ -6,4 +6,4 @@ Using Solidity
 With Help of Pinata Storage
 
 
-![Screenshot from 2022-12-09 17-46-14](https://user-images.githubusercontent.com/110802380/206700712-ca9975e7-87f0-4bac-8ae8-0b418eb13bb6.png)
+![Screenshot from 2022-12-09 17-50-15](https://user-images.githubusercontent.com/110802380/206701356-152019fb-402e-4850-8a6b-f37eb1b12a0b.png)
